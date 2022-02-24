@@ -2,7 +2,7 @@
 
 <div class="flex items-center justify-center float-left">
     <div
-        class="flex items-center space-x-2 rtl:space-x-reverse filament-tables-pagination-records-per-page-selector">
+        class="flex items-center space-x-2 rtl:space-x-reverse">
         <label for="perPage" class="text-sm font-medium">
             per page
         </label>
